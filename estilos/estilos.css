@@ -1,0 +1,46 @@
+
+.li_general{
+    list-style:none;
+    text-decoration: none;
+    color: white;
+}
+
+
+.li_top-index{
+    list-style:none;
+    text-decoration: none;
+    color:black;
+}
+
+ /*Contacto pag*/
+
+ .section_contacto{
+     display: flex;
+     justify-content: center;
+ }
+
+ 
+ /*Servicios pag*/
+
+.header_servicios{
+    display: flex;
+    justify-content: center;
+}
+
+.card_div{
+    display: flex;
+    justify-content: end;
+}
+
+/*Vehiculos pag*/
+
+.li_vehiculos{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.header-v{
+    display: flex;
+    justify-content: center;
+}
